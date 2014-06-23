@@ -1,0 +1,22 @@
+{
+  "name": "license-baker",
+  "version": "0.0.1",
+  "description": "\"License Baker helps you create a license for your project quickly\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yavorpap/license-baker.git"
+  },
+  "keywords": [
+    "licensing"
+  ],
+  "author": "yavor-papazov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yavorpap/license-baker/issues"
+  },
+  "homepage": "https://github.com/yavorpap/license-baker"
+}
