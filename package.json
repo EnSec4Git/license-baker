@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/yavorpap/license-baker/issues"
   },
-  "homepage": "https://github.com/yavorpap/license-baker"
+  "homepage": "https://github.com/yavorpap/license-baker",
+  "dependencies": {
+    "github": ">=0.1.8",
+	"express": "3.x",
+	"jade": ">=1.7.0",
+	"stylus": "*",
+	"ejs": "*"
+  }
 }
